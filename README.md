@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammad Aakib Bhat</h1>
 
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"
+    <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)"
         width="500" alt="Cool GIF" />
 </div>
 
