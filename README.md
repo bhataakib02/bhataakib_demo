@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm Mohammad Aakib Bhat</h1>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"
-        width="500" alt="Cool GIF" />
+    <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400" alt="GIF 1" />
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="GIF 2" />
 </div>
+
 
 <h3 align="center">A passionate Full Stack Web Developer from the valley of Kashmir</h3>
 <p align="left"> <a href="https://www.instagram.com/bhataakib_2/?igsh=MWgxaDg4NWNwZHloYw%3D%3D#" target="blank"><img
